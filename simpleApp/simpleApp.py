@@ -3,7 +3,7 @@ import sys
 import comtypes
 from ctypes import c_ulong, byref
 from comtypes.client import GetModule, CreateObject
-path = os.environ['PXCE_BIN32D_PATH']
+path = os.environ['PXCC_BIN32D_PATH']
 path += "\\PDFXCoreAPI.x86.dll"
 # generate wrapper code for the type library, this needs
 # to be done only once (but also each time the IDL file changes)
