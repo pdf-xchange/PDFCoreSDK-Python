@@ -1,5 +1,5 @@
-# PDFCoreSDK-Python
-Python Examples for PDF-XChangeCore SDK
+# simpleApp
+Python Examples for PDF-XChangeCore SDK create PDF-file from 6 empty pages
 
 To make the sample working do the following steps:
 

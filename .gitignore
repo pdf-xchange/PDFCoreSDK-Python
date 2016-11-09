@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/simpleApp/.vs/simpleApp/v14
+/simpleApp/simpleApp.py.pdf
